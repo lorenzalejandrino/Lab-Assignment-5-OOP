@@ -1,4 +1,4 @@
-<p align="center">
+
 You are required to present a department report that accesses csv files. You must put the data on the domain composition of the objects.
 
 image
@@ -39,6 +39,7 @@ These are EmployeeDA and EmployeeDA objects. This will be the execution of the s
 
 image
 
+<p align="right">
 This will be the sample generated report:
 
 Department Code: IT
