@@ -1,3 +1,4 @@
+<p align="center">
 You are required to present a department report that accesses csv files. You must put the data on the domain composition of the objects.
 
 image
@@ -65,3 +66,4 @@ EmpNo           Employee Name           Salary
 E370            Baldo, Jason            42,000.00
 E371            Hernandez, Timothy      29,000.00
 E372            Cruz, Ricardo           37,000.00
+</p>
