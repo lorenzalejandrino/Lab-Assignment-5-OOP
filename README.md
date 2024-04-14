@@ -32,7 +32,6 @@ E252, Rosanto, Margareth, HR Specialist
 E370, Baldo, Jason, Team Leader
 E371, Hernandez, Timothy, Junior Accountant
 E372, Cruz, Ricardo, CPA
-</p>
 ```
 This will be the sample generated report:
 ```
